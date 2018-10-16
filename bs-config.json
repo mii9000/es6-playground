@@ -1,0 +1,5 @@
+{
+    "files": ["./src/**/*.{html,htm,css,js}"],
+    "open":false,
+    "watchOptions": { "ignored": "*" }
+}
